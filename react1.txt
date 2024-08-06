@@ -1,0 +1,16 @@
+using traditional command 
+
+// npx create-react-app
+
+package.json is entry point of react where we get sripts of different commands to be used.
+// react and react-dom are for web
+// react and react native are for mobile
+
+// npm run start
+
+## Creating react app Using Vite 
+// npm create vite@latest
+
+// use "" npm i "" to install npm modules
+
+// npm run dev
